@@ -1,5 +1,5 @@
 # mc-sound-seeds
-Last updated: Minecraft 22w14a
+Last updated: Minecraft 22w15a
 
 ### Information
 In Minecraft 1.19 a seed is now provided with sent sounds to be used to randomly pick which variant of a sound is chosen.
