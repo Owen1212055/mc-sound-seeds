@@ -9,7 +9,7 @@ Using the seeds in **sound_seeds.json** will allow you to play the specific vari
 
 This may be useful for thing like music sounds, which play custom random tracks.
 
-**Note: https://bugs.mojang.com/browse/MC-253055 will cause sound seeds to appear different for players with resource packs.**
+**Note (pre 1.19.1): https://bugs.mojang.com/browse/MC-253055 will cause sound seeds to appear different for players with resource packs.**
 
 ### Format
 ```json
