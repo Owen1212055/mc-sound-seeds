@@ -1,5 +1,5 @@
 # mc-sound-seeds
-Last updated: Minecraft <!--MC TOKEN-->26.1 Snapshot 6<!--MC TOKEN-->
+Last updated: Minecraft <!--MC TOKEN-->26.1 Snapshot 7<!--MC TOKEN-->
 
 ### Information
 In Minecraft 1.19 a seed is now provided with sent sounds to be used to randomly pick which variant of a sound is chosen.
